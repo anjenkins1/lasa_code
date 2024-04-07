@@ -1,0 +1,592 @@
+<div class="col-xs-12 col-md-8 col-lg-9 mb-3">
+		<div class="text-right d-none">
+			<button class="btn btn-sm btn-default"><i class="fa fa-map-marker" aria-hidden="true"></i> Map</button>
+			<button class="btn btn-sm btn-default"><i class="fa fa-list" aria-hidden="true"></i> List view</button>
+		</div>
+		<div class="zsf-paging" style="display: block;"><nav aria-label="Page navigation example"><ul class="pagination justify-content-center"><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=3" data-ci-pagination-page="3" rel="prev" class="page-link"><i class="fa fa-chevron-left" aria-hidden="true"></i></a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?" data-ci-pagination-page="1" rel="start" class="page-link">1</a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=2" data-ci-pagination-page="2" class="page-link">2</a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=3" data-ci-pagination-page="3" class="page-link">3</a></li><li class="page-item active"><a class="page-link" href="#">4</a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=5" data-ci-pagination-page="5" class="page-link">5</a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=5" data-ci-pagination-page="5" rel="next" class="page-link"><i class="fa fa-chevron-right" aria-hidden="true"></i></a></li></ul></nav></div>
+		<div id="welcome-container" class="text-center" style="display: none;">
+			<div class="text-muted" style="font-size:70px;"><i class="fa fa-info-circle" style="color:#e3e3e3;" aria-hidden="true"></i></div>
+			You can search by name, organization, city, state, province or country. Minimum 2 characters are required to apply the filter.		</div>
+		<div id="map-container" style="display:none;">
+			<h4 class="d-none">Map</h4>
+			<div id="map" style="height:700px;"><div style="height: 100%; width: 100%;"><div style="overflow: hidden;"></div></div></div>
+		</div>
+		<div class="mt-2 zsf-results-found" style="display: block;"><i class="fa fa-info-circle" aria-hidden="true"></i> We have found 105 records. Please adjust your search criteria to narrow your search.</div>
+		<div id="list-container" style="display: block;">
+			<div id="side_bar" class="row"><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/04dd5d114b018ed4360c27bcfb0c57cc.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Janelle Moulder</h4>
+				<address>
+					Wake Forest School Of Medicine<br>1 Medical Center Blvd.<br>Winston Salem, NC 27157<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/012963d0fa349c5a6bd416b0bac1f76e?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/13cf00638eae7199af5c31677750ef89.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Melissa Ommundsen</h4>
+				<address>
+					Melissa Ommundsen PT, P.C.<br>1239 North Country Road<br>Suite 2<br>Stony Brook, NY 11790<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/c4c183eb9ff951e24424e08f4befbb51?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/731bd19e95e289b6e2ba6463d0b9c6ef.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Adeoti Oshinowo</h4>
+				<address>
+					IU Health University Hospital<br>550 University Blvd<br>Suite 2041<br>Indianapolis, IN 46202<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/fb408fc3342e9657a096ee177b36d446?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/default.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Meredy Parker</h4>
+				<address>
+					Chicago Physical Therapists<br>Chicago, IL 60640<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/2f51d43a15d64e29a1bd916311cda7cd?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/52ee64f7f08d9c5e5fa3874a93461f44.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Susan Parker</h4>
+				<address>
+					Linden Oaks Physical Therapy<br>200 Linden Oaks #300<br>Rochester, NY 14625<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/506dedd1ecf130b8ac195eab361a2ae3?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/0406b266fa11bcf80804d09f02c1eca4.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Kim Parker-Guerrero</h4>
+				<address>
+					RENEW Physical Therapy<br>607 W Country Club<br>Roswell, NM 88201<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/be792e03609683fde25a6be1f08f62ba?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/49897ec3e1b5e7070c6215a0e6d0b886.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Ms. Elizabeth Pastore</h4>
+				<address>
+					Sonoma Pelvic Physical Therapy<br>181 Andrieux Street<br> Ste. 102<br>Sonoma, CA 95476<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/ce7aa0c5d22c2de542d94a540416d4ea?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/default.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Radhika Patnam</h4>
+				<address>
+					Allegheny Health Network<br>West Penn Hospital<br>Suite 503<br>Pittsburgh, PA 15224<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/e0cd30fc6752f64db371fd4963e6c079?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/dadd43aed847af35b50a5af6c5fbc286.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Laura Payne</h4>
+				<address>
+					McLean Hospital/Harvard Medical School<br>115 Mill Street - Mail Stop 306<br>Belmont, MA 02478-1048<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/129ce0d4a18da8daff1c506e4d5d980d?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/4582e48b7555f769dee21a7ad58a70a1.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Kathy Pesavento</h4>
+				<address>
+					PelviCore Physical Therapy<br>Vienna, VA 22180-4434<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/55d2fd7ba3cad6062ec0d5552402096c?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/default.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Andrea Rapkin</h4>
+				<address>
+					UCLA School of Medicine<br>Los Angeles, CA 90095<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/52db64db6da23d771af5374ef4711b43?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/65d8f371fa9d5cc182d07a456522a9d2.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Himabindu Reddy</h4>
+				<address>
+					Montefiore Medical Center<br>1695 Eastchester Road<br>Bronx, NY 10461<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/b0f3b94afb96ebf1dde3795be065d9c0?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/default.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Anna Reinert</h4>
+				<address>
+					University of Southern California, Keck School of Medicine<br>1516 San Pablo Street<br>HC3 Building<br>3rd Floor<br>Los Angeles, CA 90033<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/d9c55e66b5bbea3195f7f7cf4861e9a9?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/default.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Howard Richard</h4>
+				<address>
+					University of Maryland<br>Clarksville, MD 21029<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/b15cc5ffa8b31b2e2044f5a143db9d72?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/default.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Erica F.  Robinson</h4>
+				<address>
+					Prisma Health<br>101 Halton Village Circle<br>Greenville, SC 29607<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/b44797158671c22ed3f8ff415c94e0a8?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/e27b16f2b6b3628fd7f95e3a11208481.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Brittaney Leigh Sargent</h4>
+				<address>
+					Bloom Pelvic Therapy<br>1211 N Westshore Ave<br>Suite 102<br>Tampa, FL 33607<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/3046e0c094aa2a02c50d96cee807f8ff?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/default.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Kelly Scott</h4>
+				<address>
+					UT Southwestern<br>Dallas, TX 75390-9055<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/b757861f1034a28f929cd33bfe3ed1fa?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/93dd24067ab79ae58a71514005c1c861.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Ms. Mary Shriver</h4>
+				<address>
+					213.219.9269<br>Sherman Oaks, CA 91423<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/df317b2a4e43bceadfa2bd501cba6a94?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/37933169c2a8abae5d9ec4970702451a.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Amy Stein</h4>
+				<address>
+					Beyond Basics Physical Therapy<br>110 E. 42 St.<br>Ste. 1504<br>New York, NY 10017<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/1b03df995880e8ff2f4069556f24d8ad?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/e024b9590ed4ec5d127708a9dccacd21.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Angie Stoehr</h4>
+				<address>
+					Nurture Women's Health<br>Frisco, TX 75035-6245<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/4b85e4c93caa3abc0a162218c839a819?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/444643590465464c529f6f0c073709d6.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Sarah P. Talley</h4>
+				<address>
+					Carolina Pelvic Health Center, Inc.<br>3214 Charles B Root Wynd<br>Suite 101<br>Raleigh, NC 27612<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/a63e79b8d93f148f783c12c469e832db?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/a6d14a5d1bb31317ace60bfe900e31eb.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Erin Teeter Carey</h4>
+				<address>
+					University Of North Carolina<br>4010 Old Clinic Building<br>Chapel Hill, NC 27516<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/1a3da9d458eacd9cba0f10161aa7e3cb?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/17c313cd38fe8d9cc33ce226ab8b7a0d.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Sara R. Till</h4>
+				<address>
+					University of Michigan<br>1500 E. Medical Center Dr.<br>Ann Arbor, MI 48109<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/94dc64c16e84d717150a65b06bd34e35?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/edbed29c9672fd031e58692d91098fda.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Frank Tu</h4>
+				<address>
+					NorthShore University HealthSystem<br>9650 Gross Pointe<br>3rd Floor ACC<br>Evanston, IL 60201<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/ddfd0331e3308fec9b207d2911a43448?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/default.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Ms. Gabriela Van Sickle</h4>
+				<address>
+					Functional Physical Therapy LLC<br>Rockville, MD 20850<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/8095b60566f456e41546ffc281efca84?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div></div>
+		</div>
+		<div class="mt-2 sap-no-results-found" style="display:none;">
+			<div class="med card-section">
+				
+<p>
+	<i class="fa fa-times" aria-hidden="true"></i> Your search did not match any addresses.
+</p>
+<p>Suggestions:</p>
+<ul>
+	<li>Make sure that all words are spelled correctly.</li>
+	<li>Try different search criteria.</li>
+	<li class="search-type-map-container" style="display: none;">Increase the radius.</li>
+</ul>			</div>
+		</div>
+		<div class="zsf-paging mt-4" style="display: block;"><nav aria-label="Page navigation example"><ul class="pagination justify-content-center"><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=3" data-ci-pagination-page="3" rel="prev" class="page-link"><i class="fa fa-chevron-left" aria-hidden="true"></i></a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?" data-ci-pagination-page="1" rel="start" class="page-link">1</a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=2" data-ci-pagination-page="2" class="page-link">2</a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=3" data-ci-pagination-page="3" class="page-link">3</a></li><li class="page-item active"><a class="page-link" href="#">4</a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=5" data-ci-pagination-page="5" class="page-link">5</a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=5" data-ci-pagination-page="5" rel="next" class="page-link"><i class="fa fa-chevron-right" aria-hidden="true"></i></a></li></ul></nav></div>
+					<div class="disclaimer small row text-muted mt-5">
+				<div class="col-lg-12 text-muted">
+					<a href="#" name="disclaimer"></a>
+										<span style="font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(82, 89, 95); font-family: Roboto, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); display: inline !important;">Information: IPPS Find a Healthcare Professional Directory is provided by the International Pelvic Pain Society (IPPS) as a public service for those who wish to locate a Pelvic Health Healthcare Professional in their area. This directory contains the names and addresses of IPPS members whose professional activity is (partially) devoted to the practice of Pelvic Health and see patients. The IPPS acknowledges that the providers listed on this website are members of IPPS. The inclusion of a provider on these pages is not an endorsement of the skills and abilities of the provider by IPPS. Providers are solely responsible for the information they are listing.</span><br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Calibri, Arial, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;">
+<br style="font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; box-sizing: border-box; color: rgb(82, 89, 95); font-family: Roboto, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">
+<span style="font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(82, 89, 95); font-family: Roboto, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); display: inline !important;">Prohibitions: The IPPS Find a<span>&nbsp;</span><span style="background-color: rgb(255, 255, 255); display: inline !important;">Healthcare Professional&nbsp;</span>Directory or any of its contents may not be downloaded, republished, resold, or duplicated, in whole or in part, for commercial or any other purposes including compiling mailing lists or any other physician list. The use of IPPS Find a<span>&nbsp;</span><span style="background-color: rgb(255, 255, 255); display: inline !important;">Healthcare Professional&nbsp;</span>Directory to establish independent data files or compendiums of statistical information is strictly prohibited.</span><br style="font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; box-sizing: border-box; color: rgb(82, 89, 95); font-family: Roboto, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">
+<br style="font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; box-sizing: border-box; color: rgb(82, 89, 95); font-family: Roboto, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">
+<span style="font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(82, 89, 95); font-family: Roboto, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); display: inline !important;">Disclaimer of Warranties and Liabilities: IPPS does not warrant the accuracy, completeness, timeliness or merchantability or fitness for a particular purpose of the information contained in this directory. IPPS does not, in any way, endorse the individuals or group practices described in the directory. In no event shall IPPS be liable for any decision made or action taken by you in reliance on such information. IPPS shall not be liable for any damages, including direct, indirect, incidental, special, consequential or any other type of damages, arising out of the use of this directory, even if IPPS has been advised of the possibility of such damages.</span>					
+				</div>
+			</div>
+			</div>

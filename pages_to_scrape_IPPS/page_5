@@ -1,0 +1,152 @@
+<div class="col-xs-12 col-md-8 col-lg-9 mb-3">
+		<div class="text-right d-none">
+			<button class="btn btn-sm btn-default"><i class="fa fa-map-marker" aria-hidden="true"></i> Map</button>
+			<button class="btn btn-sm btn-default"><i class="fa fa-list" aria-hidden="true"></i> List view</button>
+		</div>
+		<div class="zsf-paging" style="display: block;"><nav aria-label="Page navigation example"><ul class="pagination justify-content-center"><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=4" data-ci-pagination-page="4" rel="prev" class="page-link"><i class="fa fa-chevron-left" aria-hidden="true"></i></a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=2" data-ci-pagination-page="2" class="page-link">2</a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=3" data-ci-pagination-page="3" class="page-link">3</a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=4" data-ci-pagination-page="4" class="page-link">4</a></li><li class="page-item active"><a class="page-link" href="#">5</a></li></ul></nav></div>
+		<div id="welcome-container" class="text-center" style="display: none;">
+			<div class="text-muted" style="font-size:70px;"><i class="fa fa-info-circle" style="color:#e3e3e3;" aria-hidden="true"></i></div>
+			You can search by name, organization, city, state, province or country. Minimum 2 characters are required to apply the filter.		</div>
+		<div id="map-container" style="display:none;">
+			<h4 class="d-none">Map</h4>
+			<div id="map" style="height:700px;"><div style="height: 100%; width: 100%;"><div style="overflow: hidden;"></div></div></div>
+		</div>
+		<div class="mt-2 zsf-results-found" style="display: block;"><i class="fa fa-info-circle" aria-hidden="true"></i> We have found 105 records. Please adjust your search criteria to narrow your search.</div>
+		<div id="list-container" style="display: block;">
+			<div id="side_bar" class="row"><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/0e144a86c113cdf7231c3cae0a3dd8ac.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Monica Vandervoort</h4>
+				<address>
+					Summus Rehabilitation<br>5354 W 25th Avenue<br>Denver, CO 80214-1244<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/db507f0c217b6130e6f0daa938b489c4?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/9fbf740701a9be4105c3ea7a26acb398.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Monica Vazquez LoConti</h4>
+				<address>
+					New York-Presbyterian Hudson Valley Hospital<br>Cortlandt Manor, NY 10567<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/e0c76cdea3044dcdbf895a4fbba89026?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/default.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Emily R. Wegmann</h4>
+				<address>
+					Carolina Pelvic Health Center, Inc.<br>3214 Charles B Root Wynd<br>Suite 101<br>Raleigh, NC 27612<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/0e6fcc399f3a9e6796dd9b1c3d9aa5a1?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/080e2471fdd9670ee1ad3c46ea10379f.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Dr. Kathryn Witzeman</h4>
+				<address>
+					Grand River Health<br>501 Airport Road<br>PO Box 912<br>Rifle, CO 81650<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/add8b3f6950c1b54132ccb77a1ad88f6?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div><div class="col-lg-4 col-sm-6 mt-2 p-2 provider-container">
+	<div class="card h-100">
+		<div class="card-body">
+										<div class="text-center image-block mb-3">
+					<div class="circle-img rounded-circle imgx-circle">
+													<img src="https://app.v1.statusplus.net/uploads/ipps/members/profile_images/default.png" width="150" class="mx-auto">
+											 </div>
+				</div>
+						<div class="address-container">
+				<h4>Ms. Wilda Young</h4>
+				<address>
+					Freedom Healthcare Inc<br>1208 Lupton Dr.<br>Oriental, NC 28571<br>United States				</address>
+			</div>
+					</div>
+					<div class="card-footer text-center">
+
+									<a class="btn btn-default btn-view-more" target="_blank" href="https://app.v1.statusplus.net/membership/provider/profile/f0db42b419a59355c39a3f7782f22a2c?society=ipps"><i class="fa fa-user" aria-hidden="true"></i>
+													View profile
+											</a>
+				
+			</div>
+			</div>
+</div></div>
+		</div>
+		<div class="mt-2 sap-no-results-found" style="display:none;">
+			<div class="med card-section">
+				
+<p>
+	<i class="fa fa-times" aria-hidden="true"></i> Your search did not match any addresses.
+</p>
+<p>Suggestions:</p>
+<ul>
+	<li>Make sure that all words are spelled correctly.</li>
+	<li>Try different search criteria.</li>
+	<li class="search-type-map-container" style="display: none;">Increase the radius.</li>
+</ul>			</div>
+		</div>
+		<div class="zsf-paging mt-4" style="display: block;"><nav aria-label="Page navigation example"><ul class="pagination justify-content-center"><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=4" data-ci-pagination-page="4" rel="prev" class="page-link"><i class="fa fa-chevron-left" aria-hidden="true"></i></a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=2" data-ci-pagination-page="2" class="page-link">2</a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=3" data-ci-pagination-page="3" class="page-link">3</a></li><li class="page-item"><a href="https://app.v1.statusplus.net/membership/provider/form_fields?&amp;p=4" data-ci-pagination-page="4" class="page-link">4</a></li><li class="page-item active"><a class="page-link" href="#">5</a></li></ul></nav></div>
+					<div class="disclaimer small row text-muted mt-5">
+				<div class="col-lg-12 text-muted">
+					<a href="#" name="disclaimer"></a>
+										<span style="font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(82, 89, 95); font-family: Roboto, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); display: inline !important;">Information: IPPS Find a Healthcare Professional Directory is provided by the International Pelvic Pain Society (IPPS) as a public service for those who wish to locate a Pelvic Health Healthcare Professional in their area. This directory contains the names and addresses of IPPS members whose professional activity is (partially) devoted to the practice of Pelvic Health and see patients. The IPPS acknowledges that the providers listed on this website are members of IPPS. The inclusion of a provider on these pages is not an endorsement of the skills and abilities of the provider by IPPS. Providers are solely responsible for the information they are listing.</span><br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Calibri, Arial, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;">
+<br style="font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; box-sizing: border-box; color: rgb(82, 89, 95); font-family: Roboto, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">
+<span style="font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(82, 89, 95); font-family: Roboto, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); display: inline !important;">Prohibitions: The IPPS Find a<span>&nbsp;</span><span style="background-color: rgb(255, 255, 255); display: inline !important;">Healthcare Professional&nbsp;</span>Directory or any of its contents may not be downloaded, republished, resold, or duplicated, in whole or in part, for commercial or any other purposes including compiling mailing lists or any other physician list. The use of IPPS Find a<span>&nbsp;</span><span style="background-color: rgb(255, 255, 255); display: inline !important;">Healthcare Professional&nbsp;</span>Directory to establish independent data files or compendiums of statistical information is strictly prohibited.</span><br style="font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; box-sizing: border-box; color: rgb(82, 89, 95); font-family: Roboto, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">
+<br style="font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; box-sizing: border-box; color: rgb(82, 89, 95); font-family: Roboto, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">
+<span style="font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(82, 89, 95); font-family: Roboto, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); display: inline !important;">Disclaimer of Warranties and Liabilities: IPPS does not warrant the accuracy, completeness, timeliness or merchantability or fitness for a particular purpose of the information contained in this directory. IPPS does not, in any way, endorse the individuals or group practices described in the directory. In no event shall IPPS be liable for any decision made or action taken by you in reliance on such information. IPPS shall not be liable for any damages, including direct, indirect, incidental, special, consequential or any other type of damages, arising out of the use of this directory, even if IPPS has been advised of the possibility of such damages.</span>					
+				</div>
+			</div>
+			</div>
